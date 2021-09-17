@@ -8,7 +8,7 @@ class Centauri07: Profile("Andrei John", 14, SimpleDateFormat("MM-dd-yyyy").pars
 ```
 
 ```kotlin
-abstract class Profile(val name: String, val int: Age, val birthDate: Date) {
+abstract class Profile(val name: String, val age: Int, val birthDate: Date) {
     val hobbies: MutableList<String> = mutableListOf()
     val languages: MutableList<String> = mutableListOf()
 

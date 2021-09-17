@@ -1,5 +1,5 @@
 ```kotlin
-class Centauri07: Profile("Andrei John", 14, SimpleDateFormat("MM-dd-yyyy").parse("01-02-2007")) {
+class Centauri07: Profile("Andrei John", 14, SimpleDateFormat("MM/dd/yyyy").parse("01/02/2007")) {
     init {
         addHobby("Programming", "Playing Guitar")
         addLanguage("Java", "Kotlin")

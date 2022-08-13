@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=250&color=0BF7D5&width=500&lines=Kotlin%2C+Java%2C+C%23+Developer;Discord+Bot+Developer;Minecraft+Plugin+Developer)](https://git.io/typing-svg)
 
-Hello there! I am **Andrei John**, commonly referred as ***Centauri07***, I am *15 years old* and I live in the **Philippines**. I've been started programming for about 2 years ago. I've learnt a lot of things throughout my journey of Programming. I am a Java, Kotlin and C# Developer, my expertise are Discord Bot Development and Minecraft Plugin Development. My current goal right now is to learn web development and to expand my knowledge.
+Hello there! I am **Andrei John**, commonly referred as ***Centauri07***, I am *15 years old* and I live in the **Philippines**. I've started my first Hello World for about 2 years ago. I've learnt a lot of things throughout my programming journey. I am a Java, Kotlin and C# Developer, my expertise are Discord Bot Development and Minecraft Plugin Development. My current goal right now is to learn web development and to expand my software knowledge.
 
 <br>
 

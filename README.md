@@ -9,8 +9,8 @@ Hola
 
 <br>
 
-[![Centauri's github activity graph](https://activity-graph.herokuapp.com/graph?username=Centauri07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Centauri's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nokrato&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Centauri07&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokrato&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-![Centauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Centauri07&theme=react&show_icons=true)
+![Centauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nokrato&theme=react&show_icons=true)

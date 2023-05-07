@@ -9,7 +9,7 @@ Hola
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nokrato)](https://github.com/Nokrato/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nokrato)](https://github.com/Nokrato/github-compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokrato&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 

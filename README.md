@@ -1,5 +1,5 @@
 
-<h1>Nokrato0 .</h1>
+<h1>Nokrato .</h1>
 
 <br>
 

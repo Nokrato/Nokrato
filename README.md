@@ -1,5 +1,5 @@
 
-<h1>Nokrato .</h1>
+<h1>Nokrato</h1>
 
 <br>
 
@@ -9,7 +9,7 @@ Hola
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?Nokrato=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?Nokrato=Ashutosh00710&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokrato&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 

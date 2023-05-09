@@ -2,7 +2,8 @@
 <br>
 
 
-<a href="https://nokrato.github.io/">![TEXT](Hey there! My name is Jan, and I'm an experienced computer enthusiast who loves to troubleshoot and solve problems. With my 8 years background in Windows, macOS, and Linux experience, I'm like a superhero, but instead of a cape, I wear a lab coat! I have a knack for quick learning and can pick up new technologies and skills with ease. Whether it's coding, building computers, or simply figuring out why your printer isn't working, I'm always ready to lend a hand.)</a>
+<a href="https://nokrato.github.io/" style="text-decoration: none; color: inherit;">![TEXT](Hey there! My name is Jan, and I'm an experienced computer enthusiast who loves to troubleshoot and solve problems. With my 8 years background in Windows, macOS, and Linux experience, I'm like a superhero, but instead of a cape, I wear a lab coat! I have a knack for quick learning and can pick up new technologies and skills with ease. Whether it's coding, building computers, or simply figuring out why your printer isn't working, I'm always ready to lend a hand.)</a>
+
 
 
 

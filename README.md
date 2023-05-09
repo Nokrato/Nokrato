@@ -1,7 +1,7 @@
+<h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=900&size=30&pause=1000&width=435&lines=The+Architect;Nokrato;JanGyga;The+Guy)](https://nokrato.github.io/)</h1>
+
 <br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=900&size=30&pause=1000&width=435&lines=The+Architect;Nokrato;JanGyga;The+Guy)](https://nokrato.github.io/)
-
 Hey there! My name is Jan, and I'm an experienced computer enthusiast who loves to troubleshoot and solve problems. With my 8 years background in Widows,macOS & Linux experience, I'm like a superhero, but instead of a cape, I wear a lab coat! I have a knack for quick learning and can pick up new technologies and skills with ease. Whether it's coding, building computers, or simply figuring out why your printer isn't working, I'm always ready to lend a hand.
 
 When I'm not saving the world from tech disasters, I'm usually playing video games. I'm a huge fan of Destiny, Apex Legends, and Minecraft, and I love nothing more than battling it out with other gamers online. Even though I don't have many hobbies, gaming is definitely one of my favorites. I find it's the perfect way to relax and unwind after a long day.

@@ -13,6 +13,4 @@ Thanks for taking the time to get to know me a little better. If you're in need 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nokrato&theme=github-compact)](https://github.com/Nokrato/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokrato&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-![Centauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nokrato&theme=react&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokrato&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) ![Centauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nokrato&theme=react&show_icons=true)

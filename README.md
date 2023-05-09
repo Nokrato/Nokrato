@@ -3,7 +3,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=The+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=900&size=30&pause=1000&center=true&width=435&lines=The+Architect;Nokrato;JanGyga;The+Guy)](https://nokrato.github.io/)
 
 Hola
 

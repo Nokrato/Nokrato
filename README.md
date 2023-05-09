@@ -1,5 +1,4 @@
-<h1>
-  
+<h1> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=900&size=30&pause=1000&width=435&lines=The+Architect;Nokrato;JanGyga;The+Guy)](https://nokrato.github.io/)
 </h1>
 

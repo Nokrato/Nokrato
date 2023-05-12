@@ -16,3 +16,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nokrato&theme=github-compact)](https://github.com/Nokrato/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokrato&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) ![Centauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nokrato&theme=react&show_icons=true)
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nokrato&theme=dark)](https://git.io/streak-stats)
+  <img src="https://github.com/Nokrato/Nokrato/blob/output/github-contribution-grid-snake.svg" alt="commit-snake">

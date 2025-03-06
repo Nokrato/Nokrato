@@ -30,17 +30,7 @@ I am **Jan "Nokrato" Gigantino**, an experienced IT professional with a passion 
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Nokrato&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165"/>
-  </a>
-</p>
-
-<p align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nokrato&theme=react-dark" alt="Nokrato's Activity Graph" /> 
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ## 🎮 Hobbies & Interests  

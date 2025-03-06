@@ -1,49 +1,56 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=900&size=34&pause=1000&width=435&lines=The+Architect;Nokrato;JanGyga;The+Guy)](https://nokrato.github.io/)
+<div align="center">
 
-# Hey there! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=F700F7&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Nokrato;Problem+Solver;Tech+Manager;Innovative+Tinkerer;Retro+Gamer)](https://git.io/typing-svg)
 
-<span onclick="location.href='https://nokrato.github.io/';" style="cursor: pointer; text-decoration: none; color: inherit;">My name is Jan, and I'm an experienced computer enthusiast who loves to troubleshoot and solve problems. With my 8 years background in Windows, macOS, and Linux experience, I'm like a superhero, but instead of a cape, I wear a lab coat! I have a knack for quick learning and can pick up new technologies and skills with ease. Whether it's coding, building computers, or simply figuring out why your printer isn't working, I'm always ready to lend a hand.</span>
+</div>
 
-![](https://komarev.com/ghpvc/?username=Nokrato&color=green)
+## 💼 Professional Bio  
+I am **Jan "Nokrato" Gigantino**, an experienced IT professional with a passion for solving complex problems and leading teams. With years of hands-on experience across Windows, macOS, and Linux systems, I’ve developed a knack for troubleshooting and **innovative tinkering** — even in unfamiliar areas. As a management-minded tech enthusiast, I excel at **team leadership and project coordination**, ensuring that projects run smoothly while mentoring others along the way. I love diving into new technologies, quickly learning and adapting to turn ideas into reality. Whether it’s optimizing a workflow, debugging a tricky issue, or building something from scratch, I bring curiosity and a solutions-driven mindset to every challenge.
 
-## 🚀 Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nokrato&theme=github-compact)](https://github.com/Nokrato/github-readme-activity-graph)
+## 🛠 Tech Stack & Skills  
+**Languages & Tools:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) 
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge) 
+![Redis](https://img.shields.io/badge/-Redis-D82C20?logo=redis&logoColor=white&style=for-the-badge)  
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge) 
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
+![Socket.io](https://img.shields.io/badge/-Socket.io-000000?logo=socketdotio&logoColor=white&style=for-the-badge) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge) 
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=mui&logoColor=white&style=for-the-badge)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokrato&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats & Activity  
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Nokrato&show_icons=true&theme=synthwave" alt="Nokrato's GitHub stats" height="165" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokrato&layout=compact&theme=synthwave" alt="Top Languages" height="165" />
+</p>
 
-![Centauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nokrato&theme=react&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=Nokrato&theme=synthwave&hide_border=true&background=00000000" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nokrato&theme=synthwave&layout=compact" alt="Wakatime Stats" height="165" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nokrato&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&ring=494963&dates=DFF9FF)](https://git.io/streak-stats)
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nokrato&theme=github-compact&hide_border=true&area=true" alt="Nokrato's Activity Graph" /> 
+</p>
 
-<img src="https://github.com/Nokrato/Nokrato/blob/output/github-contribution-grid-snake.svg" alt="commit-snake">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nokrato/Nokrato/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
-## 👉 Hobbies
-- 🐝 Creator of <a href="https://discord.gg/PkYRf7E5qW">BeezCommunity</a> on Discord.
-- 🎮 Playing **Counter Strike 2** with friends.
-- 📖 Learning and experimenting with new things.
+## 🎮 Hobbies & Interests  
+- Building and exploring in **Minecraft** ⛏️  
+- Competing in high-octane matches of **Apex Legends** 🔫  
+- Defending the Light in **Destiny 2** 🚀  
+- Chasing high scores in classic **arcade games** 🕹️  
+- Replaying the classics on the **PlayStation 2** 🎮  
 
-## 👉 Tech Stack
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234A5F88.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ReactJS](https://img.shields.io/badge/ReactJS-5890FF?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%230B4E9B.svg?style=for-the-badge&logo=css3&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23BC7800.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![Socket.io](https://img.shields.io/badge/Socket.io-ED1C24?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/MATERIAL%20UI-000000?style=for-the-badge&logo=mui&logoColor=white)
-
-## 📜 Stats
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Nokrato&locale=en&theme=synthwave&custom_title=➥+Development+Time&hide_title=false&show_icons=true&hide=ini,json,html,css,csv,text,gradle,erb,kotlin,ejs,java+properties,tsconfig,JAVAini,git+config,bash,groovy,gitignore+file,xml,other,git,auto_detected,idea_module,yaml,markdown,properties)
-
-![Contributions](https://github-readme-stats.vercel.app/api?username=Nokrato&theme=synthwave&custom_title=➥+Contributions&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&show_owner=true&locale=en&range=all_time)
-
-## ✨ Contact
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/480132651504631818)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+## ✨ Contact & Links  
+<p align="center">
+  <a href="https://discord.gg/PkYRf7E5qW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
+  <a href="mailto:jangyga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> 
+</p>

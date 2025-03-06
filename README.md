@@ -25,17 +25,16 @@ I am **Jan "Nokrato" Gigantino**, an experienced IT professional with a passion 
 
 ## 📊 GitHub Stats & Activity  
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Nokrato&show_icons=true&theme=synthwave" alt="Nokrato's GitHub stats" height="165" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokrato&layout=compact&theme=synthwave" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nokrato&show_icons=true&theme=tokyonight" alt="Nokrato's GitHub stats" height="165" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokrato&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Nokrato&theme=synthwave&hide_border=true&background=00000000" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nokrato&theme=synthwave&layout=compact" alt="Wakatime Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nokrato&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nokrato&theme=github-compact&hide_border=true&area=true" alt="Nokrato's Activity Graph" /> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nokrato&theme=react-dark" alt="Nokrato's Activity Graph" /> 
 </p>
 
 <p align="center">

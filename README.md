@@ -30,7 +30,7 @@ I am **Jan "Nokrato" Gigantino**, an experienced IT professional with a passion 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nokrato&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nokrato&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center"> 

@@ -58,6 +58,9 @@ I am **Jan "Nokrato" Gigantino**, an experienced IT professional with a passion 
 </p>
 
 ## 🎮 Hobbies & Interests  
+
+[![My Games](https://skillicons.dev/icons?i=minecraft,playstation,steam,unity)](https://skillicons.dev)
+
 - Building and exploring in **Minecraft** ⛏️  
 - Competing in high-octane matches of **Apex Legends** 🔫  
 - Defending the Light in **Destiny 2** 🚀  

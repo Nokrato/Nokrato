@@ -63,3 +63,8 @@ I am **Jan "Nokrato" Gigantino**, an experienced IT professional with a passion 
   <a href="https://discord.gg/PkYRf7E5qW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
   <a href="mailto:jangyga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> 
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F700F7&height=120&section=footer" alt="footer"/>
+
+<!--
+     Thanks for being my guest <3
+-->

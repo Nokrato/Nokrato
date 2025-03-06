@@ -30,7 +30,7 @@ I am **Jan "Nokrato" Gigantino**, an experienced IT professional with a passion 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nokrato&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nokrato&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center"> 
@@ -38,7 +38,7 @@ I am **Jan "Nokrato" Gigantino**, an experienced IT professional with a passion 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nokrato/Nokrato/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ## 🎮 Hobbies & Interests  

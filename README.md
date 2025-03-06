@@ -59,7 +59,15 @@ I am **Jan "Nokrato" Gigantino**, an experienced IT professional with a passion 
 
 ## 🎮 Hobbies & Interests  
 
-[![My Games](https://skillicons.dev/icons?i=minecraft,playstation,steam,unity)](https://skillicons.dev)
+## 🎮 Games I Play  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-1E90FF?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft">
+  <img src="https://img.shields.io/badge/Apex%20Legends-FF4655?style=for-the-badge&logo=apex-legends&logoColor=white" alt="Apex Legends">
+  <img src="https://img.shields.io/badge/Destiny%202-805D93?style=for-the-badge&logo=destiny&logoColor=white" alt="Destiny 2">
+  <img src="https://img.shields.io/badge/PlayStation%202-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation 2">
+  <img src="https://img.shields.io/badge/Arcade%20Games-FB8C00?style=for-the-badge&logo=atari&logoColor=white" alt="Arcade Games">
+</p>
 
 - Building and exploring in **Minecraft** ⛏️  
 - Competing in high-octane matches of **Apex Legends** 🔫  

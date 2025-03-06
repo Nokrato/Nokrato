@@ -29,11 +29,12 @@ I am **Jan "Nokrato" Gigantino**, an experienced IT professional with a passion 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokrato&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nokrato&theme=tokyonight" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nokrato&theme=react-dark" alt="Nokrato's Activity Graph" /> 
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nokrato&theme=react-dark" alt="Nokrato's Activity Graph" /> 
+<p align="center">
+  <img src="https://ghchart.rshah.org/00FF00/Nokrato" alt="Nokrato's GitHub Contribution Graph" />
 </p>
 
 ## 🎮 Hobbies & Interests  

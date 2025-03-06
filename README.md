@@ -14,6 +14,18 @@
 -->
 <div align="center">
 
+    
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
+    
+<!--
+<div>
+    <img src="./assets/about_nok.gif" alt="About Me Terminal GIF"/>
+</div>
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=F700F7&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Nokrato;Problem+Solver;Tech+Manager;Innovative+Tinkerer;Retro+Gamer)](https://git.io/typing-svg)
 
 </div>
@@ -22,20 +34,14 @@
 I am **Jan "Nokrato" Gigantino**, an experienced IT professional with a passion for solving complex problems and leading teams. With years of hands-on experience across Windows, macOS, and Linux systems, I’ve developed a knack for troubleshooting and **innovative tinkering** — even in unfamiliar areas. As a management-minded tech enthusiast, I excel at **team leadership and project coordination**, ensuring that projects run smoothly while mentoring others along the way. I love diving into new technologies, quickly learning and adapting to turn ideas into reality. Whether it’s optimizing a workflow, debugging a tricky issue, or building something from scratch, I bring curiosity and a solutions-driven mindset to every challenge.
 
 ## 🛠 Tech Stack & Skills  
-**Languages & Tools:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) 
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge) 
-![Redis](https://img.shields.io/badge/-Redis-D82C20?logo=redis&logoColor=white&style=for-the-badge)  
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge) 
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
-![Socket.io](https://img.shields.io/badge/-Socket.io-000000?logo=socketdotio&logoColor=white&style=for-the-badge) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge) 
-![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=mui&logoColor=white&style=for-the-badge)  
+
+<!--
+     This is the list of my skills and tools I am studying!
+-->
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,java,python,javascript,nodejs,react,html,css,docker)](https://skillicons.dev)
+
 
 ## 📊 GitHub Stats & Activity  
 <p align="center"> 

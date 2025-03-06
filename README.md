@@ -7,11 +7,11 @@
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
-
+<!--
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Nokrato+The+Architect;Business+Analyst" alt="Business Analyst"/>
 </a>
-
+-->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=F700F7&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Nokrato;Problem+Solver;Tech+Manager;Innovative+Tinkerer;Retro+Gamer)](https://git.io/typing-svg)

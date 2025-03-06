@@ -85,3 +85,5 @@ I am **Jan "Nokrato" Gigantino**, an experienced IT professional with a passion 
 <!--
      Thanks for being my guest <3
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?Nokrato=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)

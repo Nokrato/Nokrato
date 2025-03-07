@@ -39,8 +39,8 @@ I am **Jan "Nokrato" Gigantino**, an experienced IT professional with a passion 
      This is the list of my skills and tools I am studying!
 -->
 
-### Main skills
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,java,python,javascript,nodejs,react,html,css,docker)](https://skillicons.dev)
+
 
 
 ## 📊 GitHub Stats & Activity  

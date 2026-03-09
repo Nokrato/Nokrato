@@ -78,11 +78,6 @@ If a process is repetitive, unclear, or slow, I want to fix it.
 
 ## GitHub Stats
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Nokrato&show_icons=true&theme=tokyonight&hide_border=true" alt="Nokrato's GitHub stats" height="165"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokrato&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nokrato&theme=react-dark&hide_border=true" alt="Nokrato's Activity Graph"/>
 </p>

@@ -4,10 +4,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F700F7&height=140&section=header" alt="header"/>
 
-<div align="center">
-
-# Nokrato
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&color=F700F7&center=true&vCenter=true&width=980&height=60&lines=Building+modern+web+systems;Next.js+%7C+React+%7C+TypeScript;Dashboards%2C+automation%2C+and+AI-assisted+tools;Builder+of+practical+systems)](https://git.io/typing-svg)
 
 <p>

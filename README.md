@@ -6,23 +6,24 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=F700F7&center=true&vCenter=true&width=900&height=60&lines=Hello%2C+I'm+Jan+Gigantino;aka+Nokrato;I+build%2C+break%2C+and+improve+systems;Problem+Solver;Tech+Tinkerer;Retro+Gamer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1200&color=F700F7&center=true&vCenter=true&width=900&height=60&lines=Hello%2C+I'm+Nokrato;The+Architect;Builder+of+Systems;Problem+Solver;Tech+Focused+Creator)](https://git.io/typing-svg)
 
 </div>
 
 ## About Me
 
-I’m Nokrato — a tech-driven builder who enjoys solving problems, improving systems, and learning fast.
+I’m **Nokrato**.
 
-I work across **Windows, macOS, and Linux**, and I’m most at home when I’m fixing something messy, testing ideas, or building tools that make work smoother and smarter.
+I focus on solving technical problems, improving workflows, and building practical systems. I work across **Windows, macOS, and Linux**, with a strong interest in automation, web technologies, and clean solutions that make work more efficient.
 
-I’m especially interested in:
-- troubleshooting complex issues
-- workflow optimization
-- automation
-- web technologies
-- system design
-- turning ideas into practical solutions
+## Focus Areas
+
+- troubleshooting complex issues  
+- workflow optimization  
+- automation  
+- web technologies  
+- system design  
+- practical problem-solving  
 
 ## Tech Stack
 
@@ -47,14 +48,7 @@ I’m especially interested in:
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
 </p>
 
-## What I Like Building
-
-- tools that simplify workflows
-- systems that solve real problems
-- technical fixes that save time
-- projects that mix creativity and logic
-
-## Outside of Tech
+## Interests
 
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1E90FF?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft">
@@ -64,7 +58,7 @@ I’m especially interested in:
   <img src="https://img.shields.io/badge/Arcade%20Games-FB8C00?style=for-the-badge&logo=atari&logoColor=white" alt="Arcade Games">
 </p>
 
-I also have a soft spot for **retro games, arcade classics, and sandbox creativity** — especially the kind of games that let you build, experiment, and push systems in unexpected ways.
+Outside of tech, I enjoy retro games, arcade classics, and sandbox-style experiences built around experimentation, creativity, and systems.
 
 ## Contact
 
